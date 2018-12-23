@@ -1,12 +1,12 @@
 # aneta4config
 
-<b>New update (v1.2) with better dimensional accuracy! Find the guide for calibrating the dimensions in this readme.</b>
+<b>New update (v1.3) with better dimensional accuracy! Find the guide for calibrating the dimensions in this readme.</b>
 
 The ANET A4 could be a very nice printer. It has an OK hardware and prints really nicely.
 The only thing is: You cannot change ANYTHING! Even the EEPROM is disabled.
 As ANET does not provide a firmware to their "open-source" delta-printer, I decided to create my own.
 This is compatible with the standard ANET A4 printer, <b>without any modifications</b>.
-It's currently based on <b>Marlin 1.1.8</b> (http://marlinfw.org).
+It's currently based on <b>Marlin 1.1.9</b> (http://marlinfw.org).
 You'll need the ANET board library in your Arduino IDE: https://github.com/SkyNet3D/anet-board
 
 <b>You now can calibrate the concave or convex movement that this printer usually has!</b>
